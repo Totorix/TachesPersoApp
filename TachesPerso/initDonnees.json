@@ -1,0 +1,30 @@
+[
+  {
+    "Libelle": "cadeaux anniversaire",
+
+    "Description": "Consommer les cadeaux",
+    
+    "Actions" :  [
+      {
+        "Libelle": "Montgolfiere"
+      },
+      {
+        "Libelle": "test genetique"
+      }
+    ]
+  },
+  {
+    "Libelle": "radiateurs",
+
+    "Description": "avant cet ete",
+
+    "Actions" : [
+      {
+        "Libelle": "faire marcher radiateur achete"
+      },
+      {
+        "Libelle": "voir autres modeles"
+      }
+    ]
+  }
+]
